@@ -22,6 +22,7 @@ public class CES extends Student {
 		/*
 		 * Your Work !
 		 * */
+		
 		Scanner scanner = null;
 		
 		if (list == null) {
